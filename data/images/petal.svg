@@ -1,0 +1,6 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+	<g transform="rotate(-90)">
+		<title>First Layer</title>
+			<path id="svg_4" d="m123.31641,14.83594c-75.95068,23.75684 -109.51563,153.01562 -118.20313,164.3125c-8.6875,11.29687 95.89063,-58.85938 150.20313,-109.3125c54.3125,-50.45312 43.95068,-78.75684 -32,-55z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#FFC9D9" fill="#FFC9D9" />
+	</g>
+</svg>
